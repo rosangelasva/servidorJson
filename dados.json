@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "nome": "Mariana S",
+        "descricao": "Viajar sempre foi um sonho para mim, mas organizar tudo sempre pareceu uma tarefa complicada. Graças à Voyage Mística, minha viagem para a Tailândia foi perfeita! O pacote que escolhi incluiu tudo que eu precisava, e o melhor, sem dor de cabeça. Cada passeio foi incrível, e o suporte que recebi foi impecável. Com certeza, usarei os serviços deles novamente!",
+        "img_url":"https://ibb.co/p1X9kSF"
+    },
+    {
+        "id":2,
+        "nome": "Carlos A.",
+        "descricao": "Como um viajante frequente a negócios, valorizo eficiência e confiabilidade. A Voyage Mística superou todas as minhas expectativas. Eles cuidaram de todos os detalhes, desde o voo até o traslado e hospedagem. A plataforma de reservas é intuitiva e o atendimento ao cliente é rápido e eficiente. Recomendo para todos que precisam de uma viagem corporativa bem-organizada.",
+        "img_url":"https://ibb.co/m8Lvc9w"
+    },
+    {
+        "id":3,
+        "nome": "Júlia e Gabriel",
+        "descricao": "Nossa lua de mel nas Maldivas foi um conto de fadas graças à Voyage Mística . O pacote de lua de mel que escolhemos era exatamente o que sonhávamos: romântico, luxuoso e com atenção a todos os detalhes. Obrigado por tornar esse momento tão especial e inesquecível. Já estamos planejando nossa próxima aventura juntos com vocês!",
+        "img_url":"https://ibb.co/8YR7DL2"
+    }
+]
